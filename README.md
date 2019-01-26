@@ -1,3 +1,5 @@
+This project showcases a modal react component that is entirely contained within itself, along with its state, and is made to be wrapped around any tag or item you want to summon a modal from an onClick event. The component lies in components>Modal>Modal.js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
